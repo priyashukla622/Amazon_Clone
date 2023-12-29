@@ -1,0 +1,262 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+#container{
+    display:flex;
+    height:70vh;
+    width:100vw; 
+    background-color:transparent; 
+    border:2px solid black; 
+    
+} 
+.nav{
+    display:flex;
+    height:70px;
+    width:80vh;
+    background-color:white;
+} 
+
+.line{
+    margin-left: 20px;
+    margin-right: 15px;
+    margin-top: 20px;
+    align-items: 20px;
+    font-size: 20px;
+} 
+
+.logo{
+    height:66px;
+    width:87x;
+    margin-left: 35px;
+}
+.input{
+    height: 35px;
+    width:580px; 
+    margin-top: 11px;
+    margin-left: 145px; 
+    border-radius: 30px;
+    padding-left: 10px;
+    padding-right:10px ;
+    font-size: 20px;
+    /* background-color: lightgray; */
+  
+   
+
+
+}
+#search{
+    background-color:lightgray;
+    margin-top: 10px;
+    margin-left: -55px;
+    height:17px;
+    width:32px;
+    border-left: 1px solid black;
+    padding: 10px;
+    border-radius: 0px 20px 20px 0px ;
+
+   
+
+
+    
+
+}
+#mike{
+    height:14px;
+    margin-top: 18px;
+    margin-left: 30px;
+    border-radius: 100%;
+    font-size: 15px;
+    background-color:lightgray;
+    padding: 10px;  
+   
+
+   
+}
+#vedio-icon img{
+    height:27px;
+    width:-39px;
+    margin-left: 7rem;
+    margin-top:18px;
+    font-size: 40px;
+
+   
+}
+#bell-icon{
+    height:70px;
+    width:80px;
+    margin-top: 23px;
+    margin-left: 22px;
+    font-size: 21px;
+
+}
+#profile-image img{
+    height:25px;
+    width:25px;
+    margin-top: 2px;
+    margin-left: -15px;
+    font-size:20px ;
+    border:1px solid;
+    padding: 15px;
+    border-radius: 100%;
+    color:white;  
+}
+
+#nav_side{
+    display:flex;
+
+ 
+}
+.list{
+   height:75vh;
+   width:18vw;
+   overflow: hidden;
+   overflow-y:scroll ;
+   cursor: pointer;
+   font-size: large;
+   margin-top: -20rem;
+}
+
+.list p{
+    margin-left: 10px;
+  
+
+}
+.list i{
+    margin-right: 10px;
+
+}
+.list h1{
+    font-size: 20px;
+    margin-left: 10px;
+}
+.subcrip img{
+    height:20px;
+    width:20px;
+    border-radius: 100%;
+    margin-left:8px; ;
+}
+.subcrip i{
+    margin-left: 8px;
+}
+
+
+
+.more i{
+    color: red;
+}
+
+#panal{
+    height: 5vh;
+    width:90vw;
+    display: flex;
+    margin-top:71px;
+    margin-left:10px ;
+    justify-content: space-between;
+    margin-top: -20rem;
+    margin-right: 10px;
+
+   
+}
+#panal  button{ 
+    padding: 4px 4px 4px 4px;
+    cursor: pointer;
+    background-color: lightgrey;
+    border-style: none;
+    border-radius: 10px;
+
+}
+/* .All{
+    margin-top: 3px;
+    margin-left: -11px;
+    font-size:15px ;
+    background-color: lightgray;
+    padding: 8px;
+    border-radius: 15%;
+    background-color: black;
+    color: white; */
+
+/* } */
+
+
+
+/* .items{
+    margin-top: 3px;
+    margin-left: 1px;
+    font-size:15px ;
+    background-color: lightgray;
+    padding: 8px;
+    border-radius: 15%;
+    margin-right: 4px; */
+   
+
+/* } */
+
+/* #Video{
+    display: grid;
+    height:720px;
+    width:-1090px;
+    margin-top:150px;
+    margin-left: -1010px;
+    grid-template-rows: 290px 290px 250px ;
+    grid-template-columns: 350px 350px 350px;
+    column-gap:20px;
+    row-gap:20px;
+
+} */
+
+
+/* .video1{
+    display:grid;
+} 
+.video,
+.video1,
+iframe {
+    border-radius: 10px;
+    border: none;
+} */
+
+#middle{
+    /* height:68vh;
+    width:80vw; */
+    overflow: hidden;
+    overflow-y:scroll ;
+    font-size: large;
+    margin-left: 0;
+    overflow: hidden;
+    overflow-y:scroll ;
+    cursor: pointer;
+    font-size: large;
+    border: 2px solid black;
+
+
+
+} 
+
+.video1{
+    display: flex;
+}
+/* .pick1 img{
+    height:25px;
+    width:25px;
+    margin-top: 2px;
+    border-radius: 100%;
+    display: inline-block; */
+
+span{
+   padding-top: 00px;
+}
+
+
+
+    
+    
+
+
+
+
+
+
+
